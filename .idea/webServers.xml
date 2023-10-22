@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="22e12644-b3f4-4c11-a5c9-6472ef886e7f" name="62.72.6.160">
+        <fileTransfer rootFolder="/home/cityhubusa" accessType="SFTP" host="62.72.6.160" port="22" sshConfigId="b735b8ab-1aef-474c-8bb5-dc8bedc8179b" sshConfig="root@62.72.6.160:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="30000" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
